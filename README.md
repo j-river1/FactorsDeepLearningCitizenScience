@@ -1,6 +1,6 @@
 # Factors affecting deep learning model performance in citizen science-based image data collection in agriculture
 
-<img src="https://github.com/j-river1/Croppie/blob/main/IMG/logo_CIATIDEO.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
+<img src="https://github.com/j-river1/FactorsDeepLearningCitizenScience/blob/main/IMG/LogosGitHub.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
 # Croppie
 The project’s app, Croppie, will gamify real-time photo data collection from smallholders by incentivizing PhotoCropping, i.e. taking and sharing photos of their crops to:
