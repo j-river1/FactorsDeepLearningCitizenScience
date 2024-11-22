@@ -13,7 +13,7 @@ This repository contains scripts and images used in research on factors affectin
 - DATA. Metadata Images  
 
 
-# Download and sharing data ⏬:
+# More information⏬:
 
-- For sharing data from project. Please contact to Project Croppie. https://croppie.org/
+- For sharing more data, updates from project. Please contact to Project Croppie. https://croppie.org/
 
