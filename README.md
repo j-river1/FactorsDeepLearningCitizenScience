@@ -14,3 +14,6 @@ This repository contains scripts and images used in research on factors affectin
 
 
 
+# Download pictures ⏬
+Download the picture here. 
+https://drive.google.com/file/d/1srWKcl5z2lSht3cZ98lAjRtG0NXCKOt3/view?usp=sharing
