@@ -2,7 +2,11 @@
 
 <img src="https://github.com/j-river1/FactorsDeepLearningCitizenScience/blob/main/IMG/LogosGitHub.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
-# Croppie
+# Introduction 
+
+This repository contains scripts and images used in research on factors affecting the prediction accuracy of AI models, such as YOLO v8, in data collected of coffee farmers through a citizen science approach using mobile phone images in Colombia.
+
+
 The project’s app, Croppie, will gamify real-time photo data collection from smallholders by incentivizing PhotoCropping, i.e. taking and sharing photos of their crops to:
 
 Generate low-cost, high volumes of real-time primary data from smallholder farmers that support AI/ML model training;
