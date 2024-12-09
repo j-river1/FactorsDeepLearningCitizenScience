@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rivera-Palacio"
+  given-names: "Juan C."
+  orcid: "https://orcid.org/0000-0002-1423-3396"
+title: "Factors affecting deep learning model performance in citizen science-based image data collection in agriculture"
+version: 1.0.
+date-released: 2024-12-08
+url: "https://github.com/j-river1/FactorsDeepLearningCitizenScience"
